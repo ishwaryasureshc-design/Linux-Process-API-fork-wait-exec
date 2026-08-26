@@ -58,7 +58,7 @@ int main() {
 ## OUTPUT
 
 
-<img width="677" height="516" alt="Screenshot 2026-08-06 094800" src="https://github.com/user-attachments/assets/6782c597-5ce1-48a9-bca0-c16ddc9d3e5b" />
+![Alt text](<../Pictures/Screenshot at 2026-08-26 21-38-55.png>)
 
 
 
@@ -117,7 +117,7 @@ int main() {
 ## OUTPUT
 
 
-
+![Alt text](<../Pictures/Screenshot at 2026-08-26 21-44-19.png>)
 
 # RESULT:
 The programs are executed successfully.
