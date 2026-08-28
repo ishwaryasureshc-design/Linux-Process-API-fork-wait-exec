@@ -57,8 +57,7 @@ int main() {
 
 ## OUTPUT
 
-
-![Alt text](<../Pictures/Screenshot at 2026-08-26 21-38-55.png>)
+![Alt text](image/experiment02222.png)
 
 
 
@@ -115,9 +114,9 @@ int main() {
 
 
 ## OUTPUT
+![Alt text](image/experiment0222.png)
 
 
-![Alt text](<../Pictures/Screenshot at 2026-08-26 21-44-19.png>)
 
 # RESULT:
 The programs are executed successfully.
